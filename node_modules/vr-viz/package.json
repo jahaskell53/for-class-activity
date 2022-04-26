@@ -1,0 +1,59 @@
+{
+  "name": "vr-viz",
+  "version": "3.0.15",
+  "description": "3D data visualization in VR and web",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "mustafasaifee",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.3",
+    "aframe": "^1.2.0",
+    "aframe-teleport-controls": "^0.3.1",
+    "d3": "^6.5.0",
+    "d3-geo-projection": "^3.0.0",
+    "d3-request": "^1.0.6",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "ngraph.forcelayout3d": "^1.2.0",
+    "ngraph.graph": "^19.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.3",
+    "three": "^0.126.0",
+    "three-conic-polygon-geometry": "^1.4.2",
+    "topojson": "^3.0.2",
+    "web-vitals": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafasaifee42/VR-Viz.git"
+  },
+  "keywords": [
+    "Data Visualization",
+    "WebVR",
+    "3D Data Visualization",
+    "Virtual Reality",
+    "VR Data Visualization",
+    "aframe"
+  ],
+  "bugs": {
+    "url": "https://github.com/mustafasaifee42/VR-Viz/issues"
+  },
+  "homepage": "https://github.com/mustafasaifee42/VR-Viz#readme"
+}

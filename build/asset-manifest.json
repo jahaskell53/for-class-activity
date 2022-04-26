@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/real-in-class-activity/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/real-in-class-activity/static/js/main.25aeb897.chunk.js",
+    "main.js.map": "/real-in-class-activity/static/js/main.25aeb897.chunk.js.map",
+    "runtime-main.js": "/real-in-class-activity/static/js/runtime-main.d1f116f4.js",
+    "runtime-main.js.map": "/real-in-class-activity/static/js/runtime-main.d1f116f4.js.map",
+    "static/js/2.f84a1c76.chunk.js": "/real-in-class-activity/static/js/2.f84a1c76.chunk.js",
+    "static/js/2.f84a1c76.chunk.js.map": "/real-in-class-activity/static/js/2.f84a1c76.chunk.js.map",
+    "static/js/3.86460675.chunk.js": "/real-in-class-activity/static/js/3.86460675.chunk.js",
+    "static/js/3.86460675.chunk.js.map": "/real-in-class-activity/static/js/3.86460675.chunk.js.map",
+    "index.html": "/real-in-class-activity/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/real-in-class-activity/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f84a1c76.chunk.js.LICENSE.txt": "/real-in-class-activity/static/js/2.f84a1c76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1f116f4.js",
+    "static/js/2.f84a1c76.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.25aeb897.chunk.js"
+  ]
+}
