@@ -18,7 +18,7 @@ export default function SecondVRViz() {
             ],
           },
           style: {
-            origin: { x: 0, y: 0, z: -120 },
+            origin: { x: 0, y: 0, z: -80 },
             dimensions: {
               width: 10,
               height: 10,
